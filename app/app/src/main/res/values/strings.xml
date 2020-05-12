@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ZeroDollarToaster</string>
+    <string name="welcome_Text">This is a Worthless Toaster!</string>
+    <string name="goButton_Text">Toast!</string>
+    <string name="cookMeter_Text">Please select desired level of cooking.</string>
+    <string name="eatToast">Eat!</string>
+    <string name="wasteToast">Garbage!</string>
+    <string name="toastTitle">POP!</string>
+    <string name="toastMessage">Would you like to eat your toast?</string>
 </resources>
