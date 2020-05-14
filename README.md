@@ -14,5 +14,4 @@ This is an android app I'm building out of spite.
 * Cancel Button!
 
 
-
-*no actual toast is ever made or will ever be made with this app
+*no actual toast is made with this app*  
