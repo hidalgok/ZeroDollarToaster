@@ -7,4 +7,9 @@
     <string name="wasteToast">Garbage!</string>
     <string name="toastTitle">POP!</string>
     <string name="toastMessage">Would you like to eat your toast?</string>
+    <string name="cancelButton_Text">Pop Now!</string>
+    <string name="finishToastTitle">There\'s no toast!</string>
+    <string name="finishToastMessage">...You\'ve already finished your toast. Would you like to go back?</string>
+    <string name="finishToastBack">Go Back</string>
+    <string name="finishToastStay">Stay</string>
 </resources>

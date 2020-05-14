@@ -20,7 +20,11 @@ public class MainActivity extends AppCompatActivity {
         cookMeter=(SeekBar)findViewById(R.id.cookMeter);
     }
 
-    //On button press, get value from seek bar and pass it to new activity
+    /**
+     * Button press method
+     * Gets value from the seek bar, packages it, and sends it to the MakeToast Activity
+     * @param view
+     */
     public void makeToast(View view){
         Intent intent = new Intent(this, MakeToastActivity.class);
         int seekBarValue= cookMeter.getProgress();
