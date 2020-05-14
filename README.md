@@ -11,3 +11,8 @@ This is an android app I'm building out of spite.
 * Start Button!
 * Countdown timer!
 * Pop Up Alert!
+* Cancel Button!
+
+
+
+*no actual toast is ever made or will ever be made with this app
