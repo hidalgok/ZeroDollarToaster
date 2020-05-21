@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MakeToastActivity"
+            android:noHistory="true"
             android:parentActivityName=".MainActivity">
 
         </activity>

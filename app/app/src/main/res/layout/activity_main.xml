@@ -22,6 +22,7 @@
         android:id="@+id/cookMeter"
         android:layout_width="210dp"
         android:layout_height="23dp"
+        android:progressDrawable="@drawable/toast_gradient"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
